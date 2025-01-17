@@ -24,7 +24,7 @@ export default function Details() {
         <div className="container flex-grow-1">
           <p className="fs-2sm fw-700 black mt-4 pt-1">Account Deletion Request</p>
           <p className="fs-sm fw-400 black mt-3 pt-1">
-            Welcome to [Your Company] Account Deletion Page At [Your Company], we understand that
+            Welcome to Account Deletion Page At Apna Crusher, we understand that
             your privacy is important. If you wish to delete your user account, please follow the
             steps below.
           </p>
@@ -73,7 +73,7 @@ export default function Details() {
               <div>
                 <p className="fs-2sm fw-700 black mb-0">Step 1: Open the Mobile Application</p>
                 <p className="fs-sm fw-400 black mb-0 mt-2">
-                  Open the “Apna Crusher” mobile application on your device.
+                  Open the “Apna Crusher” mobile application on your device and go to the Setting page with the help of bottom navigation bar button.
                 </p>
                 <img className="mt-2 w_xsm_100" src={step1} alt="step1" />
               </div>
@@ -82,7 +82,7 @@ export default function Details() {
                 <div>
                   <p className="fs-2sm fw-700 black mb-0">Step 2: Navigate to Account Settings</p>
                   <p className="fs-sm fw-400 black mb-0 mt-2">
-                    In the app, locate and navigate to the "Account Settings" or a similar section.
+                    In the app, locate and navigate to the "Delete My Account" or a similar section.
                   </p>
                   <img className="mt-2 w_xsm_100" src={step2} alt="step2" />
                 </div>
@@ -91,7 +91,7 @@ export default function Details() {
               <div>
                 <p className="fs-2sm fw-700 black mb-0">Step 3: Find the Deletion Feature/Button</p>
                 <p className="fs-sm fw-400 black mb-0 mt-2">
-                  Look for the "Delete Account" feature or button within the "Help Centre" section.
+                  Look for the "Delete Account" feature or button click on this button and send confirmation email.
                 </p>
                 <img className="mt-2 w_xsm_100" src={step3} alt="step3" />
               </div>
@@ -100,7 +100,7 @@ export default function Details() {
                 <p className="fs-2sm fw-700 black mb-0">Step 4: Confirm Deletion</p>
                 <p className="fs-sm fw-400 black mb-0 mt-2">
                   Upon selecting the "Delete Account" feature, the app may prompt you to confirm
-                  your decision. Please review the confirmation message carefully.
+                  your decision. Please review the confirmation message carefully and are you confirm for delete the account click on Delete now button.
                 </p>
                 <img className="mt-2 w_xsm_100" src={step4} alt="step4" />
               </div>
